@@ -3,7 +3,7 @@
 ## Оглавление
 
 
-[1. Описание проекта](https://github.com/santyskill/Homework/tree/main/project_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/santyskill/Homework/blob/main/project_0/README.md#описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/santyskill/Homework/tree/main/project_0/README.md#Какой-кейс-решаем)
 
